@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on work or do some projects
 - 📫 You can contact me for more information by emailing me on :
       E-mail ==> haidar038@gmail.com
-      Instagram ==> @mhmmd.hdr_05
+      Instagram ==> @mhmmd.haidar_05
 
 <!---
 
