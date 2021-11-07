@@ -1,4 +1,4 @@
-![haidar038](Haidar.jpg)
+![haidar038](HDR.jpg)
 
 - 👋 Hi, I’m M Khaidar as @haidar038
 - 👀 I’m interested in Programming, Computer Science, Web Developing, etc
