@@ -1,4 +1,4 @@
-![haidar038](HDR.jpg)
+<img src="HDR.jpg" width="400" height="400" />
 
 - 👋 Hi, I’m M Khaidar as @haidar038
 - 👀 I’m interested in Programming, Computer Science, Web Developing, etc
